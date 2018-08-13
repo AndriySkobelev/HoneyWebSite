@@ -6,10 +6,13 @@
     "git": "^0.1.5",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "styled-components": "^3.4.2",
+    "styled-system": "^3.0.2"
   },
   "scripts": {
-    "start": "react-scripts run",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
